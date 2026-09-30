@@ -1,0 +1,11 @@
+commit df65cba4d55d8daef2cd2eefd7e15b051dede193
+Author: Tristan Sengelman-Lipps <tristan_sengelman-lipps@mines.edu>
+Date:   Wed Sep 30 12:49:24 2026 -0600
+
+    changed cat color to green
+
+commit 1220d10ca272e798b6bed1f500a443d7e523cd57
+Author: SayalGurung <Sayalg674@gmail.com>
+Date:   Wed Sep 30 12:38:04 2026 -0600
+
+    initial commit
